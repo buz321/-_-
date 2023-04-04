@@ -1,4 +1,4 @@
-def solution(price):
+def solution(price): # if elif 
     if price >= 500000:
         return int(0.8 * price)
     elif price >= 300000 and price < 500000:
@@ -7,3 +7,5 @@ def solution(price):
         return int(0.95 * price)
     else:
         return int(price)
+    
+   
