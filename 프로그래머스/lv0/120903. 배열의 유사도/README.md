@@ -1,10 +1,10 @@
 # [level 0] 배열의 유사도 - 120903 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=csharp) 
 
 ### 성능 요약
 
-메모리: 16.3 MB, 시간: 0.03 ms
+메모리: 31.5 MB, 시간: 0.73 ms
 
 ### 구분
 
