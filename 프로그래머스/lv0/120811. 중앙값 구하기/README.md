@@ -1,10 +1,10 @@
 # [level 0] 중앙값 구하기 - 120811 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=csharp) 
 
 ### 성능 요약
 
-메모리: 16.6 MB, 시간: 0.09 ms
+메모리: 31.5 MB, 시간: 3.01 ms
 
 ### 구분
 
