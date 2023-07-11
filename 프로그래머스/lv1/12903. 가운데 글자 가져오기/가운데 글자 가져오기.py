@@ -8,4 +8,4 @@ def solution(s):
         answer = list(s)[answer:answer+2]
         answer = ''.join(answer)
         
-    return answer
+    return answer // 정답 출력
